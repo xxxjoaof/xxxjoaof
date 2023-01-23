@@ -6,12 +6,12 @@ Right now I'm studying Techs HTML5|CSS, JavaScript and Swift IOS.
 In my Github profile there are some projects that I developed and am developing, among them my Resume using Techs HTML5|CSS together with some sets of Bulma framework code. In addition to this some colleagues and me are developing an IOS Mobile application for market listing with Swift native Tech using a Macbook along with the help of a teacher. To complement this, I am currently taking the OneBitCode Full Stack JavaScript course, currently in the "JavaScript and Logic of Programming" module.
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="joao-swift" height="30" width="30" src="https://www.pngkey.com/png/full/128-1286315_bird-logo-vector-2-buy-clip-art-swift.png">
   <img align="center" alt="joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="joao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="joao-swift" height="30" width="30" src="https://www.pngkey.com/png/full/128-1286315_bird-logo-vector-2-buy-clip-art-swift.png">
-    
+      
   ##
  
 <div> 
