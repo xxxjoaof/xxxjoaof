@@ -1,9 +1,7 @@
 ## João França
-I've always admired technology as a whole, and within my professional principles I value doing something that in the end will facilitate/help someone. From a few months ago I started to see the development area as a great challenge and a sea of possibilities to be able to develop things that will impact more people, in addition to my passion and aptitude for technology. So, I came to a decision to move to the Development area, and I'm just looking for an opportunity.
-I'm a professional with enormous ease of learning, dynamic, great power of observation, leardership and teamwork and passionate about technology.
+I have a strong admiration for technology and strive to utilize my skills to help others. I recently became interested in the field of software development and see it as an exciting challenge with endless potential to make a positive impact. I am a fast learner, energetic, observant, a strong leader and team player, and passionate about technology.
 
-Right now I'm studying Techs HTML5|CSS, JavaScript and Swift IOS.
-In my Github profile there are some projects that I developed and am developing, among them my Resume using Techs HTML5|CSS together with some sets of Bulma framework code. In addition to this some colleagues and me are developing an IOS Mobile application for market listing with Swift native Tech using a Macbook along with the help of a teacher. To complement this, I am currently taking the OneBitCode Full Stack JavaScript course, currently in the "JavaScript and Logic of Programming" module.
+I am currently studying HTML5, CSS, JavaScript and Swift for iOS development. On my Github profile, you can find some of the projects I have worked on, including a resume built with HTML5 and CSS, along with the Bulma framework. I am also collaborating with my classmates to develop a market listing iOS mobile application using Swift. Additionally, I am taking a Full Stack JavaScript course at OneBitCode, currently focused on JavaScript and programming logic.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="joao-swift" height="30" width="30" src="https://www.pngkey.com/png/full/128-1286315_bird-logo-vector-2-buy-clip-art-swift.png">
